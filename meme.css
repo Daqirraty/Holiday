@@ -1,0 +1,11 @@
+nav {
+  background-color: red;
+}
+nav ul li {
+  list-style-type: none;
+  padding: 10px;
+  display: block;
+}
+nav ul {
+  display: flex;
+}
